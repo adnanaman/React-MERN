@@ -1,5 +1,8 @@
 # React-MERN
 
+Express/Node/Mongo REST API used in this project is actually also uploaded on github here 
+https://github.com/adnanaman/MEAN-StarterCode/tree/master/nodeApi-crypto
+
 # Create React apps with no build configuration.
 
 Creating an App – How to create a new app.
